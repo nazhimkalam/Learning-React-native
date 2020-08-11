@@ -1,0 +1,1 @@
+Add the react native default node modules which comes when you create a new react native project
